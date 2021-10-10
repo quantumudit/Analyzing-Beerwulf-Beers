@@ -26,7 +26,7 @@ def main(total_pages: int) -> None:
         print(f'Remaining pages to scrape: {total_pages - pgno}')
         time.sleep(3)
 
-def load_data():
+def load_data() -> None:
     """
     This function loads the scraped data into a CSV file
     """
