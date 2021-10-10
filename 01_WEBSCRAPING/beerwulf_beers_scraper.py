@@ -1,6 +1,7 @@
 import pandas as pd
 import datetime
 import time
+import pyfiglet
 from fx_beerwulf_scraper_template import *
 
 def main(total_pages: int) -> None:
@@ -35,10 +36,16 @@ def load_data() -> None:
     beers_df.to_csv('beerwulf_beers_data.csv', index=False)
 
 if __name__ == '__main__':
+    
     total_pages = 3
+
+    scraper_title = "BEERWULF SCRAPER"
+    ascii_art_title = pyfiglet.figlet_format(scraper_title, font='small')
+    
     start_time = datetime.datetime.now()
 
     print('\n\n')
+    print(ascii_art_title)
     print('Grabbing Beers...')
     print(f'Total Pages to scrape:{total_pages}')
     

@@ -64,9 +64,9 @@ def scrape_content(content: str) -> None:
 # ---------------------------- #
 
 if __name__ == '__main__':
-    url = 'https://www.beerwulf.com/en-GB/api/search/searchProducts?catalogCode=Beer_1&routeQuery=all-beers&page=1'
+    URL = 'https://www.beerwulf.com/en-GB/api/search/searchProducts?catalogCode=Beer_1&routeQuery=all-beers&page=1'
     
-    content = extract_content(url)
+    content = extract_content(URL)
     scrape_content(content)
     
     print(f'Total Items Scraped: {len(all_beers)}')
