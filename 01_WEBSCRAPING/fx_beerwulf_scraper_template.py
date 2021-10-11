@@ -11,13 +11,13 @@ HEADERS = {
 
 all_beers = []
 
-def extract_content(url: str):
+def extract_content(url: str) -> dict:
     """
     This function takes the internal API URL and returns only the relevant portion from the JSON content
     Args:
         url (str): The internal API URL string
     Returns:
-        The JSON content only having the required product information
+        dict: The JSON content only having the required product information
     """
     
     response = SESSION.get(url, headers=HEADERS)
@@ -31,7 +31,7 @@ def scrape_content(content: str) -> None:
     Args:
         content (str): This is the JSON content extracted from 'extract_content()' function
     Returns:
-        This function doesn't return anything but adds the data to the global list variable
+        None: This function doesn't return anything but adds the data to the global list variable
     """
     
     for beer in content:

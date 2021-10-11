@@ -10,7 +10,7 @@ def main(total_pages: int) -> None:
     Args:
         total_pages (int): It is total number of pages to be scraped
     Returns:
-        This function runs through each page and adds the content to the 'all_beers' list but, itself returns none
+        None: This function runs through each page and adds the content to the 'all_beers' list but, itself returns none
     """
     for pgno in range(1, total_pages+1):
         url = f'https://www.beerwulf.com/en-GB/api/search/searchProducts?catalogCode=Beer_1&routeQuery=all-beers&page={pgno}'
@@ -39,7 +39,7 @@ if __name__ == '__main__':
     
     total_pages = 3
 
-    scraper_title = "BEERWULF SCRAPER"
+    scraper_title = "BEERWULF BEERS GRABBER"
     ascii_art_title = pyfiglet.figlet_format(scraper_title, font='small')
     
     start_time = datetime.datetime.now()
