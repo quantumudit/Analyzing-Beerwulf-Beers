@@ -1,4 +1,5 @@
 import requests
+from datetime import datetime, timezone
 from urllib.parse import urljoin
 
 ROOT_URL = 'https://www.beerwulf.com'
@@ -34,6 +35,9 @@ def scrape_content(content: str) -> None:
         None: This function doesn't return anything but adds the data to the global list variable
     """
     
+    utc_timezone = timezone.utc
+    current_utc_timestamp = datetime.now(utc_timezone).strftime('%d-%b-%Y %H:%M:%S')
+    
     for beer in content:
         title = beer['title']
         item_link = urljoin(ROOT_URL, beer['contentReference'])
@@ -54,7 +58,8 @@ def scrape_content(content: str) -> None:
             'in_stock_status': in_stock,
             'price_pounds': price_pounds,
             'beer_image_url': image_link,
-            'beer_details_url': item_link
+            'beer_details_url': item_link,
+            'last_updated_at_UTC': current_utc_timestamp
         }
         
         all_beers.append(beer_details)
