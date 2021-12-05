@@ -41,7 +41,12 @@ def scrape_content(content: str) -> None:
     for beer in content:
         title = beer['title']
         item_link = urljoin(ROOT_URL, beer['contentReference'])
-        image_link =  urljoin(ROOT_URL, beer['images'][0]['image'])
+        
+        if beer['images'][0]['image'] != "":
+            image_link =  urljoin(ROOT_URL, beer['images'][0]['image'])
+        else:
+            image_link =  urljoin(ROOT_URL, '/globalassets/catalog/beerwulf/beers/beer-placeholder_def3.png')
+        
         style = beer['style']
         alcohol_percentage = beer['alcoholPercentage']
         volume_cl = beer['volume']
