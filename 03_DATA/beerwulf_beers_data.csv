@@ -1,0 +1,116 @@
+BeerID,Title,Style,Container Type,InStock Status,Image Link,Details Link,Alcohol %,Volume (cl),Price (£)
+B1000,Lagunitas IPA,IPA,Bottle,True,https://www.beerwulf.com/globalassets/lagunitas-ipa.36_1_1.png,https://www.beerwulf.com/en-gb/p/beers/lagunitas-ipa.36,6.2,36.0,2.79
+B1001,Lagunitas Daytime,IPA,Bottle,True,https://www.beerwulf.com/globalassets/lagunitas-daytime_3_03.png,https://www.beerwulf.com/en-gb/p/beers/lagunitas-daytime.36,4.0,36.0,2.29
+B1002,Brouwerij de Brabandere Petrus Cherry Chocolate Nitro Quad,Quadrupel Beer,Bottle,True,https://www.beerwulf.com/globalassets/brouwerij-de-brabandere-petrus-cherry-chocolate-nitro-quad_2_1.png,https://www.beerwulf.com/en-gb/p/beers/brouwerij-de-brabandere-petrus-cherry-chocolate-nitro-quad-24f6f986,8.5,33.0,2.99
+B1003,Oedipus Panty,Porter & Stout,Bottle,True,https://www.beerwulf.com/globalassets/oedipus-panty.33_1_2.png,https://www.beerwulf.com/en-gb/p/beers/oedipus-panty2,6.0,33.0,2.99
+B1004,Texels Skuumkoppe,German Wheat Beer,Bottle,True,https://www.beerwulf.com/globalassets/texels-skuumkoppe.3_1_1.png,https://www.beerwulf.com/en-gb/p/beers/texels-skuumkoppe.3,6.0,30.0,2.79
+B1005,Texels Tripel,Tripel Beer,Bottle,True,https://www.beerwulf.com/globalassets/texels-tripel.3_1_1.png,https://www.beerwulf.com/en-gb/p/beers/texels-tripel.3,8.5,30.0,2.99
+B1006,Pietra,Lager,Bottle,True,https://www.beerwulf.com/globalassets/pietra.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/pietra.33,6.0,33.0,2.69
+B1007,Bintang,Lager,Bottle,True,https://www.beerwulf.com/globalassets/bintang.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/bintang2,4.7,33.0,2.29
+B1008,Red Stripe,Lager,Bottle,True,https://www.beerwulf.com/globalassets/red-stripe.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/red-stripe-red-stripe.33,4.7,33.0,1.69
+B1009,Dos Equis Lager Especial,Lager,Bottle,True,https://www.beerwulf.com/globalassets/dos-equis-lager-especial_beer_15851_0.png,https://www.beerwulf.com/en-gb/p/beers/dos-equis-lager-especial-bottle-.36,4.5,36.0,1.79
+B1010,Oedipus Pilsner,Pilsner & Hoppy Lager,Bottle,True,https://www.beerwulf.com/globalassets/oedipus-pilsner.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/oedipus-pilsner.33,5.0,33.0,2.79
+B1011,St. Feuillien Blond,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/st-feuillien-blond.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/st.-feuillien-blond.33,7.0,33.0,2.69
+B1012,Kwaremont Pittig Blond,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/kwaremont-pittig-blond.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/kwaremont-pittig-blond2,6.6,33.0,2.39
+B1013,St. Feuillien Grand Cru,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/st-feuillien-grand-cru.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/st.-feuillien-grand-cru,9.5,33.0,2.99
+B1014,Rochefort 6',Dubbel Beer,Bottle,True,https://www.beerwulf.com/globalassets/rochefort-6.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/rochefort-62,7.5,33.0,2.89
+B1015,St. Bernardus Pater 6,Dubbel Beer,Bottle,True,https://www.beerwulf.com/globalassets/st.-bernardus-pater-6.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/st2.-bernardus-pater-6,6.7,33.0,2.59
+B1016,Grisette Blond Gluten Free,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/grisette-blond-gluten-free.25_1_1.png,https://www.beerwulf.com/en-gb/p/beers/grisette-blond-gluten-free.25,5.5,25.0,2.39
+B1017,Brixton Coldharbour Lager,Pilsner & Hoppy Lager,Bottle,True,https://www.beerwulf.com/globalassets/brixton-coldharbour-lager.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/brixton-coldharbour-lager.33,4.4,33.0,2.69
+B1018,BRLO Naked,Pale Ale,Bottle,True,https://www.beerwulf.com/globalassets/brlo-naked.33_1_02.png,https://www.beerwulf.com/en-gb/p/beers/brlo-naked.33,0.2,33.0,2.49
+B1019,Force Majeure Traditional Blond,Blond Beer,Bottle,True,https://www.beerwulf.com,https://www.beerwulf.com/en-gb/p/beers/force-majeure-traditional-blond.33,0.4,33.0,2.19
+B1020,Lowlander 0% Wit,White Beer,Bottle,True,https://www.beerwulf.com/globalassets/lowlander-0-wit.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/lowlander-0-wit.33,0.0,33.0,2.39
+B1021,Brouwerij 't IJ IJwit,White Beer,Bottle,True,https://www.beerwulf.com/globalassets/brouwerij-t-ij-ijwit.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/brouwerij-t-ij-ijwit,6.5,33.0,2.79
+B1022,Lagunitas A Little Sumpin' Sumpin',IPA,Bottle,True,https://www.beerwulf.com/globalassets/lagunitas-a-little-sumpin-sumpin.36_1_1.png,https://www.beerwulf.com/en-gb/p/beers/lagunitas-a-little-sumpin-sumpin2,7.5,36.0,2.89
+B1023,Affligem Dubbel,Dubbel Beer,Bottle,True,https://www.beerwulf.com/globalassets/affligem-dubbel.3_1_0.png,https://www.beerwulf.com/en-gb/p/beers/affligem-dubbel.3,6.8,30.0,2.19
+B1024,vandeStreek Playground IPA Alcoholvrij,IPA,Bottle,True,https://www.beerwulf.com/globalassets/vandestreek-playground-ipa-alcoholvrij.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/vandestreek-playground-ipa-alcoholvrij2,0.5,33.0,2.39
+B1025,Hoppebräu Helles,Lager,Bottle,True,https://www.beerwulf.com/globalassets/hoppebrau-helles.5_1_1.png,https://www.beerwulf.com/en-gb/p/beers/hoppebrau-helles.5,4.9,50.0,2.49
+B1026,Brasserie De Sutter Brin de Folie,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/brasserie-de-sutter-brin-de-folie.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/brasserie-de-sutter-brin-de-folie.33,6.5,33.0,2.69
+B1027,Kapittel Watou Triple Abt 10,Tripel Beer,Bottle,True,https://www.beerwulf.com/globalassets/kapittel-watou-triple-abt-10.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/kapittel-watou-triple-abt-10.33,10.0,33.0,2.89
+B1028,Paulaner Weissbier,German Wheat Beer,Bottle,True,https://www.beerwulf.com/globalassets/paulaner-hefeweizen-naturtrub.5_1_0.png,https://www.beerwulf.com/en-gb/p/beers/paulaner-hefeweizen-naturtrub,5.5,50.0,2.79
+B1029,De Molen Vuur & Vlam IPA,IPA,Bottle,True,https://www.beerwulf.com/globalassets/de-molen-vuur--vlam-ipa.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/de-molen-vuur--vlam-ipa.33,6.2,33.0,2.79
+B1030,La Trappe Blond,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/la_trappe_trappist_blond.png,https://www.beerwulf.com/en-gb/p/beers/la-trappe-blond33,6.5,33.0,2.59
+B1031,Brouwerij Noordt Noordtsingle,Lager,Bottle,True,https://www.beerwulf.com/globalassets/brouwerij-noordt-noordtsingel.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/brouwerij-noordt-noordtsingle2,4.5,33.0,2.79
+B1032,Jopen Jacobus RPA,Pale Ale,Bottle,True,https://www.beerwulf.com/globalassets/jopen-jacobus-rpa.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/jopen-jacobus-rpa2,5.5,33.0,2.89
+B1033,BrewDog Dead Pony Club Can,Pale Ale,Can,True,https://www.beerwulf.com/globalassets/brewdog-dead-pony-club-can.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/brewdog-dead-pony-club-can.33,3.8,33.0,2.49
+B1034,Beavertown Bloody Ell,IPA,Can,True,https://www.beerwulf.com/globalassets/beavertown-bloody-ell2.33_1_0,https://www.beerwulf.com/en-gb/p/beers/beavertown-bloody-ell.33,5.5,33.0,2.89
+B1035,St. Feuillien Tripel,Tripel Beer,Bottle,True,https://www.beerwulf.com/globalassets/st-feuillien-tripel.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/st.-feuillien-tripel.33,8.5,33.0,2.89
+B1036,Blanche De Silly,White Beer,Bottle,True,https://www.beerwulf.com/globalassets/blanche-de-silly.25_1_1.png,https://www.beerwulf.com/en-gb/p/beers/blanche-de-silly2,5.0,25.0,2.49
+B1037,Houblon Chouffe,IPA,Bottle,True,https://www.beerwulf.com/globalassets/la-chouffe-houblon.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/la-chouffe-houblon2,9.0,33.0,3.29
+B1038,Westmalle Dubbel,Dubbel Beer,Bottle,True,https://www.beerwulf.com/globalassets/westmalle-dubbel.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/westmalle-dubbel2,7.0,33.0,2.49
+B1039,Chimay Blauw,Quadrupel Beer,Bottle,True,https://www.beerwulf.com/globalassets/chimay-blauw.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/chimay-blue.33,9.0,33.0,3.39
+B1040,De Koninck Triple D'Anvers,Tripel Beer,Bottle,True,https://www.beerwulf.com/globalassets/de-koninck-triple-danvers.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/de-koninck-triple-danvers2,8.0,33.0,3.09
+B1041,St. Feuillien Five,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/st.-feuillien-fivebottle.33_14916_0.png,https://www.beerwulf.com/en-gb/p/beers/st.-feuillien-five-bottle-.33,5.0,33.0,2.39
+B1042,Gallia West IPA,IPA,Bottle,True,https://www.beerwulf.com/globalassets/gallia-west-ipa.33_1_2.png,https://www.beerwulf.com/en-gb/p/beers/gallia-west-ipa.33,6.0,33.0,2.89
+B1043,Murphy's Irish Stout,Porter & Stout,Can,True,https://www.beerwulf.com/globalassets/murphys-irish-stout.5_1_1.png,https://www.beerwulf.com/en-gb/p/beers/murphys-irish-stout.5,4.0,50.0,2.49
+B1044,Sol,Lager,Bottle,True,https://www.beerwulf.com/globalassets/sol.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/sol.33,4.5,33.0,1.79
+B1045,Affligem Patersvat,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/affligem-patersvat.3_1_1.png,https://www.beerwulf.com/en-gb/p/beers/affligem-patersvat2,6.8,30.0,2.49
+B1046,Lindemans Kriek,Fruit Beer,Bottle,True,https://www.beerwulf.com/globalassets/lindemans-kriek.25_1_1.png,https://www.beerwulf.com/en-gb/p/beers/lindemans-kriek.25,3.5,25.0,2.19
+B1047,La Trappe Quadrupel,Quadrupel Beer,Bottle,True,https://www.beerwulf.com/globalassets/la-trappe-quadrupel33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/la-trappe-quadrupel33,10.0,33.0,3.29
+B1048,Gulpener Château Neubourg,Pilsner & Hoppy Lager,Bottle,True,https://www.beerwulf.com/globalassets/gulpener-chateau-neubourg.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/gulpener-chateau-neubourg.33,5.5,33.0,2.69
+B1049,Hertog Jan Grand Prestige,Barley Wine,Bottle,True,https://www.beerwulf.com/globalassets/hertog-jan-grand-prestige.3_1_1.png,https://www.beerwulf.com/en-gb/p/beers/hertog-jan-grand-prestige.3,10.0,30.0,2.99
+B1050,Brewdog Elvis Juice Can,Lager,Can,True,https://www.beerwulf.com/globalassets/brewdog-elvis-juice-can.33_1_2.png,https://www.beerwulf.com/en-gb/p/beers/brewdog-elvis-juice-can.33,6.5,33.0,2.89
+B1051,Beavertown Gamma Ray,Pale Ale,Can,True,https://www.beerwulf.com/globalassets/beavertown-gamma-ray.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/beavertown-gamma-ray.33,5.4,33.0,2.59
+B1052,Beavertown Neck Oil,IPA,Can,True,https://www.beerwulf.com/globalassets/beavertown-neck-oil.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/beavertown-neck-oil.33,4.3,33.0,2.59
+B1053,Peroni Nastro Azzurro,Lager,Bottle,True,https://www.beerwulf.com/globalassets/peroni-nastro-azzurro.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/peroni-nastro-azzurro.33,5.1,33.0,2.49
+B1054,Maisel & Friends Hoppy Hell,Lager,Bottle,True,https://www.beerwulf.com/globalassets/maisel-friends-hoppy-hell_15525_0.png,https://www.beerwulf.com/en-gb/p/beers/maisel--friends-hoppy-hell-bottle-.33,5.3,33.0,2.39
+B1055,Bush Caractère,Quadrupel Beer,Bottle,True,https://www.beerwulf.com/globalassets/bush-amber.33_1_2.png,https://www.beerwulf.com/en-gb/p/beers/bush-amber.33,12.0,33.0,3.49
+B1056,Brugse Zot Blond,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/brugse-zot-blond.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/brugse-zot-blond.33,6.0,33.0,2.69
+B1057,Duvel,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/duvel.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/duvel2,8.5,33.0,3.09
+B1058,Lefort Tripel,Tripel Beer,Bottle,True,https://www.beerwulf.com/globalassets/lefort-tripel.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/lefort-tripel.33,8.8,33.0,3.09
+B1059,Grisette Triple Bio,Tripel Beer,Bottle,True,https://www.beerwulf.com/globalassets/grisette-triple-bio.25_1_1.png,https://www.beerwulf.com/en-gb/p/beers/grisette-triple-bio.25,8.0,25.0,2.49
+B1060,Gallia Session IPA,IPA,Bottle,True,https://www.beerwulf.com/globalassets/gallia-session-ipa.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/gallia-session-ipa.33,4.3,33.0,2.89
+B1061,"Budels Malty Dark 0,0%",Bock Beer,Bottle,True,https://www.beerwulf.com/globalassets/budels-malty-dark-00.3_1_1.png,https://www.beerwulf.com/en-gb/p/beers/budels-malty-dark-00.33,0.0,30.0,2.49
+B1062,Affligem Blond 0.0%,Blond Beer,Bottle,True,https://www.beerwulf.com/globalassets/affligem-blond-0.0_2_1.png,https://www.beerwulf.com/en-gb/p/beers/affligem-blond-0-0,0.0,30.0,1.79
+B1063,Palm 0.0,Pale Ale,Bottle,True,https://www.beerwulf.com/globalassets/palm-0.0.25_1_1.png,https://www.beerwulf.com/en-gb/p/beers/palm-0.0.25,0.0,25.0,1.69
+B1064,BrewDog Punk AF,Pale Ale,Can,True,https://www.beerwulf.com/globalassets/brewdog-punk-afcan.33_14953_02.png,https://www.beerwulf.com/en-gb/p/beers/brewdog-punk-af-can,0.5,33.0,2.29
+B1065,Ninkasi Blanche,White Beer,Bottle,False,https://www.beerwulf.com/globalassets/ninkasi-blanche.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/ninkasi-blanche.33,4.8,33.0,2.69
+B1066,Mort Subite Kriek Lambic,Fruit Beer,Bottle,False,https://www.beerwulf.com/globalassets/mort-subite-kriek-lambic.25_14867_0.png,https://www.beerwulf.com/en-gb/p/beers/mort-subite-kriek-lambic-bottle-.25,4.0,25.0,1.89
+B1067,Brand Weizen,German Wheat Beer,Bottle,False,https://www.beerwulf.com/globalassets/brand-weizen.3_1_1.png,https://www.beerwulf.com/en-gb/p/beers/brand-weizen2,5.1,30.0,1.89
+B1068,Tiger Lager,Lager,Bottle,False,https://www.beerwulf.com/globalassets/tiger_2_0.png,https://www.beerwulf.com/en-gb/p/beers/tiger.33,5.0,33.0,2.19
+B1069,Desperados,Lager,Bottle,False,https://www.beerwulf.com/globalassets/desperados.33_1_2.png,https://www.beerwulf.com/en-gb/p/beers/desperados.33,5.9,33.0,1.89
+B1070,Orval,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/orval.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/orval2,6.2,33.0,2.69
+B1071,Rochefort 8',Quadrupel Beer,Bottle,False,https://www.beerwulf.com/globalassets/rochefort-8.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/rochefort-82,9.2,33.0,3.39
+B1072,Zundert Trappist 10,Quadrupel Beer,Bottle,False,https://www.beerwulf.com/globalassets/zundert-trappist-10.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/zundert-trappist-10.33,10.0,33.0,3.69
+B1073,Paljas Blond,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/paljas-blond.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/paljas-blond.33,6.0,33.0,2.19
+B1074,Vedett Extra White,White Beer,Bottle,False,https://www.beerwulf.com/globalassets/vedett-extra-white.33_1_02.png,https://www.beerwulf.com/en-gb/p/beers/vedett-extra-white.33,4.7,33.0,2.29
+B1075,Gouden Carolus Tripel,Tripel Beer,Bottle,False,https://www.beerwulf.com/globalassets/gouden-carolus-tripel.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/gouden-carolus-tripel.33,9.0,33.0,3.19
+B1076,Pistonhead Amber,Amber & Red Ale,Can,False,https://www.beerwulf.com/globalassets/pistonhead-amber.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/pistonhead-amber.33,6.0,33.0,2.39
+B1077,Oedipus Mannenliefde,Saison Beer,Bottle,False,https://www.beerwulf.com/globalassets/oedipus-mannenliefde.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/oedipus-mannenliefde.33,6.0,33.0,2.99
+B1078,Beavertown Lupuloid,IPA,Can,False,https://www.beerwulf.com/globalassets/beavertown-lupuloid.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/beavertown-lupuloid.33,6.7,33.0,2.89
+B1079,La Cristal IPA du Mont Blanc,IPA,Bottle,False,https://www.beerwulf.com/globalassets/la-cristal-ipa-du-mont-blanc.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/la-cristal-ipa-du-mont-blanc.33,4.7,33.0,2.79
+B1080,Oedipus Gaia IPA,IPA,Bottle,False,https://www.beerwulf.com/globalassets/oedipus-gaia-ipa.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/oedipus-gaia-ipa2,7.0,33.0,3.19
+B1081,Affligem Tripel,Tripel Beer,Bottle,False,https://www.beerwulf.com/globalassets/affligem-tripel.3_1_02.png,https://www.beerwulf.com/en-gb/p/beers/affligem-tripel2,9.0,30.0,2.19
+B1082,Fourpure Hemisphere Session IPA,IPA,Can,False,https://www.beerwulf.com/globalassets/fourpure-session-ipa.33_1_2.png,https://www.beerwulf.com/en-gb/p/beers/fourpure-session--ipa,4.2,33.0,2.49
+B1083,Fourpure Easy Peeler Session IPA,IPA,Can,False,https://www.beerwulf.com/globalassets/fourpure-easy-peeler-session-ipa.33_1_2.png,https://www.beerwulf.com/en-gb/p/beers/fourpure-easy-peeler-session-ipa.33,4.0,33.0,2.39
+B1084,Fourpure Base Camp Pils Lager,Pilsner & Hoppy Lager,Can,False,https://www.beerwulf.com/globalassets/fourpure-pils-lager.33_1_2.png,https://www.beerwulf.com/en-gb/p/beers/base-camp-pils-lager,4.7,33.0,2.59
+B1085,Ninkasi French IPA,IPA,Bottle,False,https://www.beerwulf.com/globalassets/ninkasi-ipa.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/ninkasi-ipa.33,5.4,33.0,2.79
+B1086,Ciney Blond,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/ciney-blond.25_1_0.png,https://www.beerwulf.com/en-gb/p/beers/ciney-blond.25,7.0,25.0,1.89
+B1087,Judas,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/judas.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/judas2,8.5,33.0,2.49
+B1088,Hapkin,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/hapkin.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/hapkin2,8.5,33.0,2.49
+B1089,Postel Dubbel,Dubbel Beer,Bottle,False,https://www.beerwulf.com/globalassets/postel-dubbel.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/postel-dubbel2,7.0,33.0,2.69
+B1090,Chimay Wit,Tripel Beer,Bottle,False,https://www.beerwulf.com/globalassets/chimay-wit.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/chimay-white2,8.0,33.0,3.09
+B1091,La Trappe Dubbel,Dubbel Beer,Bottle,False,https://www.beerwulf.com/globalassets/la-trappe-dubbel33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/la-trappe-dubbel33,7.0,33.0,2.59
+B1092,Kapittel Watou Blond 6,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/kapittel-watou-blond-6.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/kapittel-watou-blond-6.33,6.5,33.0,2.19
+B1093,Cuvée des Trolls,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/cuvee-des-trolls.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/cuvee-des-trolls.33,7.0,25.0,2.19
+B1094,Duvel Tripel Hop,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/duvel-tripel-hop.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/duvel-tripel-hop2,9.5,33.0,3.39
+B1095,Asahi Super Dry,Lager,Bottle,False,https://www.beerwulf.com/globalassets/asahi-super-dry.33_1_02.png,https://www.beerwulf.com/en-gb/p/beers/asahi-super-dry.33,5.2,33.0,2.49
+B1096,Stone Go To IPA ,IPA,Can,False,https://www.beerwulf.com/globalassets/stone-go-to-ipacan.36_15352_0.png,https://www.beerwulf.com/en-gb/p/beers/stone-go-to-ipa-can,4.7,36.0,2.69
+B1097,Vedett Extra Ordinary IPA,IPA,Bottle,False,https://www.beerwulf.com/globalassets/vedett-extra-ordinary-ipa.33_1_02.png,https://www.beerwulf.com/en-gb/p/beers/vedett-extra-ordinary-ipa2,5.5,33.0,2.49
+B1098,Affligem Blond,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/affligem-blond-uk_1_0.png,https://www.beerwulf.com/en-gb/p/beers/affligem-blond.3_2,6.8,30.0,1.89
+B1099,Fourpure IPA,IPA,Can,False,https://www.beerwulf.com/globalassets/fourpure-shapeshifter-ipa.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/fourpure-shapeshifter-ipa.33,5.9,33.0,2.69
+B1100,Fourpure Juicebox Citrus IPA,IPA,Can,False,https://www.beerwulf.com/globalassets/fourpure-juicebox-citrus-ipacan.33_14842_0.png,https://www.beerwulf.com/en-gb/p/beers/fourpure-juicebox-citrus-ipa-can,5.9,33.0,2.69
+B1101,Fourpure Last Train Oatmeal Stout,Porter & Stout,Can,False,https://www.beerwulf.com/globalassets/fourpure-oatmeal-stout.33_1_2.png,https://www.beerwulf.com/en-gb/p/beers/fourpure-oatmeal--stout,5.1,33.0,2.59
+B1102,Ninkasi Triple,Tripel Beer,Bottle,False,https://www.beerwulf.com/globalassets/ninkasi-triple.33_1_2.png,https://www.beerwulf.com/en-gb/p/beers/ninkasi-triple.33,8.4,33.0,3.19
+B1103,Ninkasi Pale Ale,Amber & Red Ale,Bottle,False,https://www.beerwulf.com/globalassets/ninkasi-ambree.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/ninkasi-ambree-.33,4.5,33.0,2.59
+B1104,Westmalle Tripel,Tripel Beer,Bottle,False,https://www.beerwulf.com/globalassets/westmalle-tripel.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/westmalle-tripel2,9.5,33.0,2.99
+B1105,Ename Blond,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/ename-blond.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/ename-blond2,6.5,33.0,2.49
+B1106,Grimbergen Triple,Tripel Beer,Bottle,False,https://www.beerwulf.com/globalassets/grimbergen-triple.33_1_02.png,https://www.beerwulf.com/en-gb/p/beers/grimbergen-triple2,9.0,33.0,3.29
+B1107,Steenbrugge Dubbel,Dubbel Beer,Bottle,False,https://www.beerwulf.com/globalassets/steenbrugge-dubbel.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/steenbrugge-dubbel2,6.5,33.0,2.79
+B1108,La Chouffe Blonde D'ardenne,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/la-chouffe-blonde-dardenne.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/la-chouffe-blonde-dardenne2,8.0,33.0,3.09
+B1109,Delirium Tremens,Blond Beer,Bottle,False,https://www.beerwulf.com/globalassets/delirium-tremens.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/delirium-tremens2,8.5,33.0,3.09
+B1110,Leffe Bruin,Dubbel Beer,Bottle,False,https://www.beerwulf.com/globalassets/leffe-bruin-dubbel.3_1_1.png,https://www.beerwulf.com/en-gb/p/beers/leffe-brown-dubbel2,6.5,30.0,2.69
+B1111,Brixton Low Voltage,IPA,Can,False,https://www.beerwulf.com/globalassets/brixton-low-voltage.33_1_0.png,https://www.beerwulf.com/en-gb/p/beers/brixton-low-voltage.33,4.3,33.0,2.69
+B1112,Steamworks Killer Cucumber Ale,Pale Ale,Bottle,False,https://www.beerwulf.com/globalassets/steamworks-killer-cucumber-ale.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/steamworks-killer-cucumber-ale.33,4.7,33.0,2.99
+B1113,Paljas IPA,IPA,Bottle,False,https://www.beerwulf.com/globalassets/paljas-ipa.33_1_1.png,https://www.beerwulf.com/en-gb/p/beers/paljas-ipa.33,6.0,33.0,2.29
+B1114,Ninkasi Brut IPA,IPA,Bottle,False,https://www.beerwulf.com/globalassets/ninkasi-brut-ipabottle.33_14912_0.png,https://www.beerwulf.com/en-gb/p/beers/ninkasi-brut-ipa-bottle-.33,5.6,33.0,3.29
