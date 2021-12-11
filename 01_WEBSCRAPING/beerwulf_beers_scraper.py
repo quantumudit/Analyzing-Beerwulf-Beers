@@ -33,6 +33,7 @@ def load_data() -> None:
     
     beers_df = pd.DataFrame(all_beers)
     beers_df.to_csv('beerwulf_beers_scraped_data.csv', encoding='utf-8', index=False)
+    return
 
 if __name__ == '__main__':
     
