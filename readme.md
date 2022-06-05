@@ -23,6 +23,9 @@
 
 This project focuses on scraping the varieties of beers and their associated metrics from [Beerwulf][website_link], performing exploratory data analysis to generate insights and visualize them with the help of Power BI.
 
+[![Website Snippet][website_snippet]][website_link]
+
+
 The repository directory structure is as follows:
 
 Analyzing-Beerwulf-Beers<br>
@@ -63,18 +66,10 @@ This directory contains images, icons, layouts, etc. that are used in this proje
 
 The major skills that are required as prerequisite to fully understand this project are as follows:
 
-- Basics of Python
-- Python libraries: Requests, Pandas, DateTime, JSON
-- Basics of Python Notebooks
+- Basics of Python & Jupyter Notebook
+- Understanding of Python libraries mentioned in [requirements.txt][requirements] file
+- Basics of HTML & CSS
 - Basics of Power BI
-
-In order to complete the project, I've used the following applications and libraries
-
-- Python
-- Python libraries mentioned in requirements.txt file
-- Jupyter Notebook
-- Visual Studio Code
-- Microsoft Power BI
 
 > The choice of applications & their installation might vary based on individual preferences & system settings.
 
@@ -96,13 +91,17 @@ The below graphic shows scraping of data from the website:
 
 From this graphic we can observe a significant reduce in the time of scraping due to the use of multi-threading.
 
+The interactive Power BI dashboard can be viewed here:
+
+[![Power BI Dashboard][dashboard_image]][dashboard_link]
+
 ## Support
 
 If you have any doubts, queries or, suggestions then, please connect with me in any of the following platforms:
 
 [![Linkedin Badge][linkedinbadge]][linkedin] [![Twitter Badge][twitterbadge]][twitter]
 
-If you like my work then, you may support me at Patreon:
+If you like my work then, you may support me at [Patreon][patreon]:
 
 <a href="https://www.patreon.com/quantumudit" target="_blank">
 <img src="https://i.ibb.co/94bkJwp/become-a-patreon.png" alt="become-a-patreon" border="0" width="170" height="50">
@@ -121,15 +120,20 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 [project_logo]: 06_RESOURCES/project_cover_image.png
 [process_workflow]: 06_RESOURCES/process_architecture.png
 [scraping_graphic]: 06_RESOURCES/scraping_graphic.gif
+[website_snippet]: 06_RESOURCES/website_snip.png
+[dashboard_image]: 06_RESOURCES/dashboard_image.png
 
 <!-- External Links -->
 
 [website_link]: https://www.beerwulf.com/en-gb/c/all-beers
+[requirements]: ./requirements.txt
+[dashboard_link]: https://app.powerbi.com/view?r=eyJrIjoiZDk0MmNkOWQtODAwYS00YzIyLWIzYWYtNWNmMGI2MDI4OGY2IiwidCI6IjcwODlkNGIxLTQyMmUtNDYzZi1hNGM3LTViY2FiOTk0MGRiZCJ9
 
 <!-- Profile Links -->
 
 [linkedin]: https://www.linkedin.com/in/uditkumarchatterjee/
 [twitter]: https://twitter.com/quantumudit
+[patreon]: https://www.patreon.com/quantumudit
 
 <!-- Shields Profile Links -->
 

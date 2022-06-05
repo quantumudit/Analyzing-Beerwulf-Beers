@@ -1,18 +1,21 @@
 import pandas as pd
 import time
 import pyfiglet
-from fx_beerwulf_scraper_template import *
+from fx_scraper_template import *
 
-def main(total_pages: int) -> None:
+
+def main(total_pages_to_scrape: int) -> None:
     """
-    Takes total number of pages to be scraped as an input and leverages the functions defined in scraper template file to scrape and add all the items to 'all_beers' list.
+    Takes total number of pages to be scraped as an input and leverages the functions defined in scraper template file
+    to scrape and add all the items to 'all_beers' list.
     Args:
-        total_pages (int): It is the total number of pages to be scraped
+        total_pages_to_scrape (int): It is the total number of pages to be scraped
     Returns:
         None: This function runs through each page and adds the content to the 'all_beers' list
     """
-    for pgno in range(1, total_pages+1):
-        url = f'https://www.beerwulf.com/en-GB/api/search/searchProducts?catalogCode=Beer_1&routeQuery=all-beers&page={pgno}'
+    for pgno in range(1, total_pages_to_scrape + 1):
+        url_constant = 'https://www.beerwulf.com/en-GB/api/search/searchProducts?catalogCode=Beer_1&routeQuery'
+        url = f'{url_constant}=all-beers&page={pgno}'
 
         print('\n')
         print(f'Scraping Page: {pgno}')
@@ -23,8 +26,9 @@ def main(total_pages: int) -> None:
         
         print(f'Total Beers Grabbed: {len(all_beers)}')
         print(f'Page-{pgno} Scraped...')
-        print(f'Remaining pages to scrape: {total_pages - pgno}')
+        print(f'Remaining pages to scrape: {total_pages_to_scrape - pgno}')
         time.sleep(3)
+
 
 def load_data() -> None:
     """
@@ -32,8 +36,9 @@ def load_data() -> None:
     """
     
     beers_df = pd.DataFrame(all_beers)
-    beers_df.to_csv('beerwulf_beers_scraped_data.csv', encoding='utf-8', index=False)
+    beers_df.to_csv('scraped_data.csv', encoding='utf-8', index=False)
     return
+
 
 if __name__ == '__main__':
     

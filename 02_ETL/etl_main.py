@@ -1,11 +1,10 @@
 # -- Importing Libraries -- #
 
-print('\n')
-print('Importing libraries to perform ETL...')
-
 import pandas as pd
 import pyfiglet
 
+print('\n')
+print('libraries imported to perform ETL...')
 print('Initiating ETL Process...')
 print('\n')
 
@@ -20,7 +19,7 @@ print('\n')
 
 print('Connecting to raw dataset')
 
-scraped_data = pd.read_csv("../01_WEBSCRAPING/beerwulf_beers_scraped_data.csv", index_col=False)
+scraped_data = pd.read_csv("../01_WEBSCRAPING/scraped_data.csv", index_col=False)
 
 print(f'Shape of scraped dataset: {scraped_data.shape}')
 print('\n')
@@ -29,7 +28,8 @@ print('\n')
 
 print('Removing unnecessary columns')
 
-keep_columns = ['title','style','container_type','in_stock_status','beer_image_url','beer_details_url','alcohol_percentage','volume_centiliter','price_pounds']
+keep_columns = ['title', 'style', 'container_type', 'in_stock_status', 'beer_image_url', 'beer_details_url',
+                'alcohol_percentage', 'volume_centiliter', 'price_pounds']
 beerwulf_data = scraped_data[keep_columns]
 
 print(f'Shape of dataframe after removal of unnecessary columns: {beerwulf_data.shape}')
@@ -39,7 +39,8 @@ print('\n')
 
 print('Renaming existing columns')
 
-new_column_names = ['Title','Style','Container Type', 'InStock Status', 'Image Link', 'Details Link','Alcohol %','Volume (cl)','Price (£)']
+new_column_names = ['Title', 'Style', 'Container Type', 'InStock Status', 'Image Link', 'Details Link', 'Alcohol %',
+                    'Volume (cl)', 'Price (£)']
 beerwulf_data.columns = new_column_names
 
 print(f'New column names in the dataframe: {list(beerwulf_data.columns)}')
@@ -49,7 +50,7 @@ print('\n')
 
 print('Adding custom index column to the dataframe')
 
-custom_index_col = pd.RangeIndex(start=1000, stop=1000+len(beerwulf_data), step=1, name='BeerID')
+custom_index_col = pd.RangeIndex(start=1000, stop=1000 + len(beerwulf_data), step=1, name='BeerID')
 
 beerwulf_data.index = custom_index_col
 beerwulf_data.index = 'B' + beerwulf_data.index.astype('string')
