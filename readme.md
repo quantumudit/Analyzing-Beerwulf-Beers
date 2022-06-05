@@ -89,8 +89,6 @@ The below graphic shows scraping of data from the website:
 
 ![Scraping Graphic][scraping_graphic]
 
-From this graphic we can observe a significant reduce in the time of scraping due to the use of multi-threading.
-
 The interactive Power BI dashboard can be viewed here:
 
 [![Power BI Dashboard][dashboard_image]][dashboard_link]
