@@ -1,6 +1,6 @@
 ![Project Logo][project_logo]
 
-The following interactive Power BI dashboard helps in analyzing the data in a better way/
+The following interactive Power BI dashboard helps in analyzing the data in a better way:
 
 [![Power BI Dashboard][dashboard_image]][dashboard_link]
 
