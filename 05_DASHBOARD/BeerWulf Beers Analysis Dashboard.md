@@ -1,4 +1,4 @@
-![Project Logo][project_logo]
+# ![Project Logo][project_logo]
 
 The following interactive Power BI dashboard helps in analyzing the data in a better way:
 
